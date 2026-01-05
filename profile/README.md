@@ -1,27 +1,49 @@
 <p align="center">
   <a href="https://github.com/ua-community/">
-    <img src="https://avatars.githubusercontent.com/u/191361033?s=200&v=4" alt="User & Agents Logo" width="128" />
+    <img
+      src="https://avatars.githubusercontent.com/u/191361033?s=200&v=4"
+      alt="User & Agents Logo"
+      width="128"
+    />
   </a>
 </p>
 
+<br />
+
 <h1 align="center">User &amp; Agents</h1>
+
+<br />
 
 <p align="center">
   A community focused on shaping the future of user-agent systems.
-  <br />
+</p>
+
+<br />
+
+<p align="center">
   <strong>
     <a href="https://userandagents.com/">https://userandagents.com/</a>
   </strong>
 </p>
 
+<br />
+
 <p align="center">
   <a target="_blank" href="https://discord.com/invite/mtEwuEZQ5x">
-    <img src="https://dcbadge.limes.pink/api/server/https://discord.com/invite/mtEwuEZQ5x" alt="Discord" />
+    <img
+      src="https://dcbadge.limes.pink/api/server/https://discord.com/invite/mtEwuEZQ5x"
+      alt="Discord"
+    />
   </a>
 </p>
 
+<br />
+
 <p align="center">
-  <img src="https://opencollective.com/user-and-agents/tiers/badge.svg" alt="Open Collective" />
+  <img
+    src="https://opencollective.com/user-and-agents/tiers/badge.svg"
+    alt="Open Collective"
+  />
 </p>
 
 <p>
@@ -42,7 +64,7 @@
   Projects built by community members that align with our goals and are open to users and contributors.
 </p>
 
-<h3>xe / darc</h3>
+<h3>Xenon / Darc</h3>
 
 <p>
   <a href="https://xe.dev">https://xe.dev</a>
@@ -98,5 +120,23 @@
   <li>
     A collection of components and software for listening to audio from multiple sources across devices
     and the web, designed to support a flexible and personal listening experience.
+  </li>
+</ul>
+
+<h3>Zodiac / MIR</h3>
+
+<p>
+ <a href="https://github.com/darkshapes/zodiac">https://github.com/darkshapes/zodiac</a><br /><br />
+<a href="https://github.com/darkshapes/MIR">https://github.com/darkshapes/MIR</a>
+</p>
+
+<ul>
+  <li>
+    <strong>Zodiac</strong>: A system for building applications by automatically connecting offline artificial
+    neural networks, without writing code.
+  </li>
+  <li>
+    <strong>MIR</strong>: A URI naming schema and framework used by Zodiac to hyperlink machine intelligence
+    models and their settings.
   </li>
 </ul>
