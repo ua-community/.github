@@ -119,7 +119,7 @@
 <ul>
   <li>
     A collection of components and software for listening to audio from multiple sources across devices
-    and the web, designed to support a flexible and personal listening experience.
+    and the web, designed to support a flexible and personal listening experience.  Custom elements (web components) with various purposes (logic, UI, compositional, etc), allows users to create audio players & collection browsers of all kinds of different shapes.
   </li>
 </ul>
 
