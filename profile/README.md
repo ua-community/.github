@@ -92,8 +92,8 @@
     <strong>Tiles App</strong>: A private AI assistant with offline, user-owned memory.
   </li>
   <li>
-    <strong>Tilekit SDK</strong>: A Modelfile-based Rust SDK that powers model deployment and execution across
-    the Tiles ecosystem.
+    <strong>Tilekit SDK</strong>: The SDK is a Modelfile based Rust library that contains all of our model deployment tech. It's the engine that powers everything else in Tiles.
+
   </li>
 </ul>
 
