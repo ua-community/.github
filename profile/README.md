@@ -89,10 +89,10 @@
 
 <ul>
   <li>
-    <strong>Tiles App</strong>: A private and secure AI assistant for everyday use.
+    <strong>Tiles</strong>: A private and secure AI assistant for everyday use.
   </li>
   <li>
-    <strong>Tilekit SDK</strong>: The SDK is a Modelfile based Rust library that contains all of our model deployment tech. It's the engine that powers everything else in Tiles.
+    <strong>Tilekit SDK</strong>: TCustomize local models and agent experiences within Tiles. Built in Rust, based on open-source specifications such as Modelfile and the Open Responses API.
 
   </li>
 </ul>
@@ -140,3 +140,16 @@
     models and their settings.
   </li>
 </ul>
+
+<h3>Syke</h3>
+
+<p>
+  <a href="https://mysyke.com/">https://mysyke.com</a>
+</p>
+
+<ul>
+  <li>
+    Syke ingests your digital footprint across platforms, synthesizes a psyche-level understanding of who you are using Claude’s Agent SDK, distributes that context to every AI tool via MCP, and continuously syncs as you evolve. One daemon. Every model knows you.
+  </li>
+</ul>
+
